@@ -43,6 +43,8 @@ During the duration of the hackathon, you will have access to the new and improv
 
 ## Phase 2 (Acceleration) on the Brev Platform
 
+<a href="https://brev.nvidia.com/" target="_parent"><img src="https://brev-assets.s3.us-west-1.amazonaws.com/nv-lb-dark.svg" width="150"/></a>
+
 Congratulations on finishing the first part of the challenge! 
 
 You will now get to run your code on real GPUs using NVIDIA's Brev Platform. Don't worry, you don't need to pay for anything! Once completing Phase 1 and your logic is validated, we will provide you with a **$20 Brev coupon code**. 
@@ -60,9 +62,10 @@ You will now get to run your code on real GPUs using NVIDIA's Brev Platform. Don
 
 * If you prefer to learn by watching, you can check out [minutes 30:40-38:28 of this demo](https://www.nvidia.com/en-us/on-demand/session/gtcdc25-dct51159/?playlistId=gtcdc25-quantum-computing-and-hpc&start=1840&end=2308) of description of cudaq kernels, sampling, and getting the state vector or watch [minutes 9:20-19:00 of this demo](https://www.youtube.com/live/DqPC-nlcXKA?si=ualhUnFYjW9BlbQz&t=560).
 
-### qbraid 
+### qBraid 
+* [qBraid Lab documentation](https://docs.qbraid.com/lab/user-guide/getting-started)
 
-### Brev 
+### Brev
 
 ### Quantum computing in general
 
